@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riyas Aboobaker
+# 👋 Hi, I'm Riyas
 
 ## 🔧 Multi-Hat Developer | 🚀 Serial Entrepreneur | 🌍 UAE ↔ India
 

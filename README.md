@@ -8,10 +8,10 @@ I'm a Gen X developer who's been coding since the VB6 days and never stopped lea
 **What makes me tick:** Turning real-world business problems into elegant technical solutions.
 
 ### 🎯 Current Focus
-- **Asset Tracking Systems**: Modernizing legacy VB6 applications with RFID/barcode integration
-- **POS Solutions**: Lightweight, JSON-based systems for small businesses  
-- **LabelHive**: Web-to-printer platform solving food industry labeling pain points
-- **E-commerce**: Building B2B marketplaces for the Indian market
+- **Asset Tracking Systems**: Modernizing legacy VB6 applications with RFID/barcode integration (https://effconint.com)
+- **POS Solutions**: Lightweight, JSON-based systems for small businesses (https://b2benterprises.com) 
+- **LabelHive**: Web-to-printer platform solving industry labeling pain points (https://labelhive.in)
+- **E-commerce**: Building B2B marketplaces for the Indian market (https://posmarket.in)
 
 ### 🛠️ Tech Stack
 **Languages I speak fluently:** VB6, SQL, JavaScript, PHP, Python, and whatever the project demands  
